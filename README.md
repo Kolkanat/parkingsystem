@@ -13,3 +13,5 @@ email: kolkanat.bashpayev@gmail.com
 - Currently project uses inmemory db as a data storage.
 
 # Requirements
+
+https://github.com/Kolkanat/parkingsystem/blob/master/opngo-test-assignment.pdf
